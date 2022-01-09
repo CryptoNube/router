@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//cryptonube.github.io/router/static/css/main.534648a0.chunk.css",
+    "main.js": "//cryptonube.github.io/router/static/js/main.cf2cb999.chunk.js",
+    "main.js.map": "//cryptonube.github.io/router/static/js/main.cf2cb999.chunk.js.map",
+    "runtime-main.js": "//cryptonube.github.io/router/static/js/runtime-main.5e300976.js",
+    "runtime-main.js.map": "//cryptonube.github.io/router/static/js/runtime-main.5e300976.js.map",
+    "static/js/2.cfb55d86.chunk.js": "//cryptonube.github.io/router/static/js/2.cfb55d86.chunk.js",
+    "static/js/2.cfb55d86.chunk.js.map": "//cryptonube.github.io/router/static/js/2.cfb55d86.chunk.js.map",
+    "index.html": "//cryptonube.github.io/router/index.html",
+    "static/css/main.534648a0.chunk.css.map": "//cryptonube.github.io/router/static/css/main.534648a0.chunk.css.map",
+    "static/js/2.cfb55d86.chunk.js.LICENSE.txt": "//cryptonube.github.io/router/static/js/2.cfb55d86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e300976.js",
+    "static/js/2.cfb55d86.chunk.js",
+    "static/css/main.534648a0.chunk.css",
+    "static/js/main.cf2cb999.chunk.js"
+  ]
+}
